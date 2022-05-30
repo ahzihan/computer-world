@@ -1,0 +1,38 @@
+[
+    {
+        "image": "https://i.pinimg.com/280x280_RS/e9/c4/a2/e9c4a2aa847d5d4dd8ee3c0aa4a8a3b0.jpg",
+        "name": "Mr. Akbar Hossain",
+        "text": "Best Asus Laptop",
+        "rating": 5
+    },
+    {
+        "image": "https://cdn.pixabay.com/photo/2014/07/09/10/04/man-388104_960_720.jpg",
+        "name": "Md. Zillur Rahman",
+        "text": "Batary backup is very high",
+        "rating": 5
+    },
+    {
+        "image": "https://toppng.com/uploads/preview/happy-black-person-11531493747ib42obkabb.png",
+        "name": "Mr. Rohman",
+        "text": "Long lasting Parformence",
+        "rating": 5
+    },
+    {
+        "image": "https://www.diethelmtravel.com/wp-content/uploads/2016/04/bill-gates-wealthiest-person.jpg",
+        "name": "Mr. Bill Gates",
+        "text": "Asus is Better then microsoft laptop",
+        "rating": 5
+    },
+    {
+        "image": "https://cdn.icon-icons.com/icons2/2643/PNG/512/male_boy_person_people_avatar_icon_159358.png",
+        "name": "Mr. Kalimullah",
+        "text": "Best Service and Battery Backup Laptop",
+        "rating": 5
+    },
+    {
+        "image": "https://content.fortune.com/wp-content/uploads/2018/07/gettyimages-961697338.jpg",
+        "name": "Mark Zukarbarg",
+        "text": "Good Product, Carry on",
+        "rating": 5
+    }
+]
